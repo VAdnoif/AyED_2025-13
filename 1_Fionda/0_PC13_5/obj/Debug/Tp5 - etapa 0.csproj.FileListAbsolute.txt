@@ -1,0 +1,7 @@
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\bin\Debug\Tp5 - etapa 0.exe.config
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\bin\Debug\Tp5 - etapa 0.exe
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\bin\Debug\Tp5 - etapa 0.pdb
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\obj\Debug\Tp5 - etapa 0.csproj.AssemblyReference.cache
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\obj\Debug\Tp5 - etapa 0.csproj.CoreCompileInputs.cache
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\obj\Debug\Tp5 - etapa 0.exe
+C:\Users\valentinof801\Desktop\tps\Tp5 - etapa 0\obj\Debug\Tp5 - etapa 0.pdb
