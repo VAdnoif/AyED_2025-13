@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\bin\Debug\tp8 - 1.exe.config
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\bin\Debug\tp8 - 1.exe
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\bin\Debug\tp8 - 1.pdb
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\obj\Debug\tp8 - 1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\obj\Debug\tp8 - 1.exe
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp8 - 1\tp8 - 1\obj\Debug\tp8 - 1.pdb

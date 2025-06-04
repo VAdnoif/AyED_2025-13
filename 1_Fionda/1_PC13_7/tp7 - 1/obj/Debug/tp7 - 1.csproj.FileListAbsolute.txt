@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp7 - 1\tp7 - 1\bin\Debug\tp7 - 1.exe.config
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp7 - 1\tp7 - 1\bin\Debug\tp7 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp7 - 1\tp7 - 1\bin\Debug\tp7 - 1.pdb
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp7 - 1\tp7 - 1\obj\Debug\tp7 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp7 - 1\tp7 - 1\obj\Debug\tp7 - 1.pdb

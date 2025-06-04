@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp11 - 1\tp11 - 1\bin\Debug\tp11 - 1.exe.config
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp11 - 1\tp11 - 1\bin\Debug\tp11 - 1.exe
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp11 - 1\tp11 - 1\bin\Debug\tp11 - 1.pdb
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp11 - 1\tp11 - 1\obj\Debug\tp11 - 1.exe
+C:\Users\alumno.ET37\Desktop\valentino fionda\tp11 - 1\tp11 - 1\obj\Debug\tp11 - 1.pdb
