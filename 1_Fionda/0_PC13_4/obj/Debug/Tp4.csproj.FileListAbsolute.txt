@@ -1,0 +1,7 @@
+C:\Users\valentinof801\Desktop\tps\Tp4\bin\Debug\Tp4.exe.config
+C:\Users\valentinof801\Desktop\tps\Tp4\bin\Debug\Tp4.exe
+C:\Users\valentinof801\Desktop\tps\Tp4\bin\Debug\Tp4.pdb
+C:\Users\valentinof801\Desktop\tps\Tp4\obj\Debug\Tp4.csproj.AssemblyReference.cache
+C:\Users\valentinof801\Desktop\tps\Tp4\obj\Debug\Tp4.csproj.CoreCompileInputs.cache
+C:\Users\valentinof801\Desktop\tps\Tp4\obj\Debug\Tp4.exe
+C:\Users\valentinof801\Desktop\tps\Tp4\obj\Debug\Tp4.pdb
