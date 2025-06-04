@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\bin\Debug\tp6 - 1.exe.config
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\bin\Debug\tp6 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\bin\Debug\tp6 - 1.pdb
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\obj\Debug\tp6 - 1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\obj\Debug\tp6 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp6 - 1\tp6 - 1\obj\Debug\tp6 - 1.pdb

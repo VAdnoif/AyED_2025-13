@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\bin\Debug\tp4 - 1.exe.config
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\bin\Debug\tp4 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\bin\Debug\tp4 - 1.pdb
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\obj\Debug\tp4 - 1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\obj\Debug\tp4 - 1.exe
+C:\Users\alumno.ET37\Desktop\Valentino Fionda\tp4 - 1\tp4 - 1\obj\Debug\tp4 - 1.pdb
