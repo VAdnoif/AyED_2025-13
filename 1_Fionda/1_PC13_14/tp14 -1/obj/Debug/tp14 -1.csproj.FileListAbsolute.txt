@@ -1,0 +1,13 @@
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\bin\Debug\tp14 -1.exe.config
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\bin\Debug\tp14 -1.exe
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\bin\Debug\tp14 -1.pdb
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\obj\Debug\tp14 -1.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\obj\Debug\tp14 -1.exe
+C:\Users\alumno.ET37\Desktop\valenf\tp14 -1\tp14 -1\obj\Debug\tp14 -1.pdb
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\bin\Debug\tp14 -1.exe.config
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\bin\Debug\tp14 -1.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\bin\Debug\tp14 -1.pdb
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\obj\Debug\tp14 -1.csproj.AssemblyReference.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\obj\Debug\tp14 -1.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\obj\Debug\tp14 -1.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\1_PC13_14.2\tp14 -1\obj\Debug\tp14 -1.pdb
