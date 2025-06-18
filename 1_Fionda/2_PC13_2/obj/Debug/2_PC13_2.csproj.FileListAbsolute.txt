@@ -1,0 +1,7 @@
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\bin\Debug\2_PC13_2.exe.config
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\bin\Debug\2_PC13_2.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\bin\Debug\2_PC13_2.pdb
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\obj\Debug\2_PC13_2.csproj.AssemblyReference.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\obj\Debug\2_PC13_2.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\obj\Debug\2_PC13_2.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\2_PC13_2\obj\Debug\2_PC13_2.pdb
