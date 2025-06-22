@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\bin\Debug\2_PC13_3.exe.config
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\bin\Debug\2_PC13_3.exe
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\bin\Debug\2_PC13_3.pdb
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\obj\Debug\2_PC13_3.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\obj\Debug\2_PC13_3.exe
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_3\2_PC13_3\obj\Debug\2_PC13_3.pdb

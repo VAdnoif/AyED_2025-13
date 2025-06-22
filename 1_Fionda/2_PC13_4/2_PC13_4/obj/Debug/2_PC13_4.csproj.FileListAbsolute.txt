@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_4\2_PC13_4\bin\Debug\2_PC13_4.exe.config
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_4\2_PC13_4\bin\Debug\2_PC13_4.exe
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_4\2_PC13_4\bin\Debug\2_PC13_4.pdb
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_4\2_PC13_4\obj\Debug\2_PC13_4.exe
+C:\Users\alumno.ET37\Desktop\VALEN\2_PC13_4\2_PC13_4\obj\Debug\2_PC13_4.pdb
